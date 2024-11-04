@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "achievements"
-permalink: /achievement/
+title: "Achievements"
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/achievementmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
 
-{% for post in site.achievement reversed %}
-  {% include archive-single-achievement.html %}
-{% endfor %}
