@@ -13,9 +13,12 @@ Education
 ======
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
   B.E. in Computer Science and Technology (Qian Xuesen Honor Science)  
-* University of California, Berkeley ， 2024.08 - 2024.12
+* University of California, Berkeley ， 2024.08 - 2024.12  
   UCBX  
-
+  Relevant Coursework:
+  • CS61C: Great Ideas in Computer Architecture
+  • CS161: Computer Security
+  • CS168: Internet Architecture and Protocols
 Competition
 ======
 * First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region , 2024.09
