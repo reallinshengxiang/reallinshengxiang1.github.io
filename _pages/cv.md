@@ -27,7 +27,7 @@ Education
 
 Competition
 ======
-* First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region , [2024.09](../assets/cv.pdf)  
+* [First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region , 2024.09](../assets/cv.pdf)  
 * Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A , [2024.06](../assets/cv.pdf)  
 * Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals , [2024.04](../assets/cv.pdf)  
 * First Award, Blue Bridge Cup Shaanxi Provincial Competition C/C++ Programming University Group A , [2024.04](../assets/cv.pdf)  
