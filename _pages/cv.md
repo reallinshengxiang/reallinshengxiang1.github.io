@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "left"  width="100" />
-
 Education
 ======
+<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "left"  width="100" />
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
   B.E. in Computer Science and Technology (Qian Xuesen Honor Science)  
   • GPA: 93.42/100  ( 4.06/4.30 )  
