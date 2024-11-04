@@ -11,9 +11,7 @@ redirect_from:
 
 
 
-<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="600" />
-
-
+<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "left"  width="600" />
 
 Education
 ======
