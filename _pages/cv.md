@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="60" />  
+<img src="https://baike.baidu.com/pic/%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6/165226/1/c995d143ad4bd11373f0c630caf8b30f4bfbfbedaf20?fromModule=lemma_top-image&ct=single#aid=1&pic=c995d143ad4bd11373f0c630caf8b30f4bfbfbedaf20"  align = "right"  width="60" />  
 
 Education
 ======
