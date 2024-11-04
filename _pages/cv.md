@@ -16,9 +16,9 @@ Education
 * University of California, Berkeley ， 2024.08 - 2024.12  
   UCBX  
   Relevant Coursework:
-  • CS61C: Great Ideas in Computer Architecture
-  • CS161: Computer Security
-  • CS168: Internet Architecture and Protocols
+  • CS61C: Great Ideas in Computer Architecture  
+  • CS161: Computer Security  
+  • CS168: Internet Architecture and Protocols  
 Competition
 ======
 * First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region , 2024.09
