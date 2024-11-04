@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)
+** B.E. in Computer Science and Technology (Qian Xuesen Honor Science)
+* University of California, Berkeley ， 2024.08 - 2024.12
+** UCBX
+**
 
 Competition
 ======
