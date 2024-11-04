@@ -28,22 +28,22 @@ Education
 Competition
 ======
 * First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region , [2024.09](../assets/cv.pdf)  
-* Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A , 2024.06
-* Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals , 2024.04
-* First Award, Blue Bridge Cup Shaanxi Provincial Competition C/C++ Programming University Group A , 2024.04
-* 400 points, ranking in the top 0.66% nationwide,Certified Software Professional , 2024.03
-* Silver Award, Baidu Star Programming Competition Shaanxi Provincial Competition , 2023.08
-* Silver Award, The 2022 ICPC Asia Xi'an Regional Contest , 2023.05
+* Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A , [2024.06](../assets/cv.pdf)  
+* Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals , [2024.04](../assets/cv.pdf)  
+* First Award, Blue Bridge Cup Shaanxi Provincial Competition C/C++ Programming University Group A , [2024.04](../assets/cv.pdf)  
+* 400 points, ranking in the top 0.66% nationwide,Certified Software Professional , [2024.03](../assets/cv.pdf)  
+* Silver Award, Baidu Star Programming Competition Shaanxi Provincial Competition , [2023.08](../assets/cv.pdf)  
+* Silver Award, The 2022 ICPC Asia Xi'an Regional Contest , [2023.05](../assets/cv.pdf)  
 
 Scholarship
 ======
-* Huawei Scholarship , 2024.11
-* National Scholarship , 2023.12
+* Huawei Scholarship , [2024.11](../assets/cv.pdf)  
+* National Scholarship , [2023.12](../assets/cv.pdf)  
 
 Commendation
 ======
-* Outstanding League members, Xi’an Jiaotong University ， 2024.05
-* Outstanding students, Xi’an Jiaotong University ， 2023.12
+* Outstanding League members, Xi’an Jiaotong University ， [2024.05](../assets/cv.pdf)  
+* Outstanding students, Xi’an Jiaotong University ， [2023.12](../assets/cv.pdf)  
 
 Social Engagements
 ======
