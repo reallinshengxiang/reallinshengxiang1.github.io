@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
-## B.E. in Computer Science and Technology (Qian Xuesen Honor Science)  
+### B.E. in Computer Science and Technology (Qian Xuesen Honor Science)  
 * University of California, Berkeley ， 2024.08 - 2024.12
-## UCBX  
+### UCBX  
 
 Competition
 ======
