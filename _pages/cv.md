@@ -31,7 +31,7 @@ Competition
 * [Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A , 2024.06](../assets/cv.pdf)  
 * [Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals , 2024.04](../assets/cv.pdf)  
 * [First Award, Blue Bridge Cup Shaanxi Provincial Competition C/C++ Programming University Group A , 2024.04](../assets/cv.pdf)  
-* [400 points, ranking in the top 0.66% nationwide,Certified Software Professional , 2024.03](../assets/cv.pdf)  
+* [400 points, ranking in the top 0.66% nationwide,Certified Software Professional , 2024.03](../assets/400%20points%2C%20ranking%20in%20the%20top%200.66%25%20nationwide%2CCertified%20Software%20Professional.pdf)  
 * [Silver Award, Baidu Star Programming Competition Shaanxi Provincial Competition , 2023.08](../assets/cv.pdf)  
 * [Silver Award, The 2022 ICPC Asia Xi'an Regional Contest , 2023.05](../cv/cv.pdf)  
 
