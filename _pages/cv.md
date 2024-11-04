@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-<img src="<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  width="60" />"  align = "right"  width="60" />  
+
+<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="600" />
+
+
 
 Education
 ======
