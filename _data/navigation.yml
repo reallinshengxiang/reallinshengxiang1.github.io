@@ -22,9 +22,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - title: "achievements"
-    url: /achievements/
     
   - title: "Guide"
     url: /markdown/
