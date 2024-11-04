@@ -11,14 +11,14 @@ redirect_from:
 
 <img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="100" />  
 
-<img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="100" />  
+
 
 Education
 ======
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
   B.E. in Computer Science and Technology (Qian Xuesen Honor Science)  
   • GPA: 93.42/100  ( 4.06/4.30 )  
-  • Rank:  2/43  
+  • Rank:  2/43    <img src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  align = "right"  width="100" />    
 * University of California, Berkeley ， 2024.08 - 2024.12  
   UCBX  
   Relevant Coursework:  
