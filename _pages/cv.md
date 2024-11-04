@@ -34,8 +34,15 @@ Commendation
 ======
 * Outstanding League members, Xi’an Jiaotong University ， 2024.05
 * Outstanding students, Xi’an Jiaotong University ， 2023.12
-  
 
+Social Engagements
+======
+* Member of Berkeley TechFounders' Technology Department ，2024-presen
+* Minister of XJTU Computer Science and Technology Experimental Class-Mentor-Group ，2023-present
+* Member at Experimental Computer Class Committee, responsible for academics ， 2023-present
+* Member at Xi'an Jiaotong University Campus Ambassador Social Practice ， 2023-2024
+* Officer at Qian Xuesen College Academic Tutoring Center Office ， 2023-2024
+* Officer at Chung Ying College Study Committee ， 2022-2023
 
 
 
