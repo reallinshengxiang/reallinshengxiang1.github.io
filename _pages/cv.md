@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[click](../assets/cv.pdf)
+[click](../files/CV.pdf)
 
 Education
 ======
