@@ -20,7 +20,7 @@ Education
   Relevant Coursework:  
   • CS61C: Great Ideas of Computer Architecture (Machine Structures)    
   • CS162: Operating Systems and System Programming  
-  • CS168: Internet Architecture and Protocols
+  • CS168: Introduction to the Internet: Architecture and Protocols    
   • CS188: Introduction to Artificial Intelligence
 
 Competition
