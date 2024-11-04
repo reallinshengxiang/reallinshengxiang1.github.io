@@ -224,9 +224,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  achievement:
-    output: true
-    permalink: /:collection/:path/
 
 
 
@@ -278,14 +275,6 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-  # _achievement
   - scope:
       path: ""
       type: talks
