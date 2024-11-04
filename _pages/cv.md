@@ -14,11 +14,11 @@ redirect_from:
 Education
 ======
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
-  B.E. in Computer Science and Technology (Qian Xuesen Honor Science)   <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/XJTU.png"  align = "right"  width="80" />    
+  B.E. in Computer Science and Technology (Qian Xuesen Honor Science)   <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/XJTU.png"  align = "right"/>    
   • GPA: 93.42/100  ( 4.06/4.30 )  
   • Rank:  2/43   
 * University of California, Berkeley ， 2024.08 - 2024.12  
-  UCBX  <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/UCB.png"  align = "right"  width="80" />    
+  UCBX  <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/UCB.png"  align = "right"/>    
   Relevant Coursework:  
   • CS61C: Great Ideas of Computer Architecture (Machine Structures)    
   • CS162: Operating Systems and System Programming  
