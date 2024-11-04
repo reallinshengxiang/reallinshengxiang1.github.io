@@ -37,8 +37,8 @@ Competition
 
 Scholarship
 ======
-* [Huawei Scholarship , 2024.11](../assets/cv.pdf)  
-* [National Scholarship , 2023.12](../assets/National%20Scholarship.pdf)  
+* [Huawei Scholarship , 2024.11](../cv/cv.pdf)  
+* [National Scholarship , 2023.12](../cv/National%20Scholarship.pdf)  
 
 Commendation
 ======
