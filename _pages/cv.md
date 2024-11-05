@@ -34,7 +34,7 @@ Competition
 * [400 points, ranking in the top 0.66% nationwide,Certified Software Professional , 2024.03](../cv/400%20points%2C%20ranking%20in%20the%20top%200.66%25%20nationwide%2CCertified%20Software%20Professional.pdf)  
 * [Silver Award, Baidu Star Programming Competition Shaanxi Provincial Competition , 2023.08](../cv/Silver%20Award%2C%20Baidu%20Star%20Programming%20Competition%20Shaanxi%20Provincial%20Competition.pdf)  
 * [Silver Award, The 2022 ICPC Asia Xi'an Regional Contest , 2023.05](../cv/Silver%20Award%2C%20The%202022%20ICPC%20Asia%20Xi’an%20Regional%20Contest.pdf)  
-
+[<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="8%"/>](../cv/cv.pdf)
 Scholarship
 ======
 * [Huawei Scholarship , 2024.11](../cv/cv.pdf)  
