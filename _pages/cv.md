@@ -39,7 +39,7 @@ Competition
 Scholarship
 ======
 * [Huawei Scholarship , 2024.11](../cv/cv.pdf)  
-* National Scholarship , 2023.12 [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/National%20Scholarship.webp"  align = "middle"  width="3%"/>](../cv/National%20Scholarship.pdf)
+* National Scholarship , 2023.12 [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/National%20Scholarship.webp"  align = "middle"  width="2%"/>](../cv/National%20Scholarship.pdf)
 
 Commendation
 ======
