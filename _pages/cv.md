@@ -18,7 +18,7 @@ Education
   • GPA: 93.42/100  ( 4.06/4.30 )  
   • Rank:  4/43   
 * University of California, Berkeley ， 2024.08 - 2024.12  
-  UCBX  <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/ucb.png"  align = "right" width="70%"/>  
+  UCBX  <img src="https://github.com/reallinshengxiang/reallinshengxiang.github.io/blob/master/images/ucb.png"  align = "right" width="10%"/>  
 
   Relevant Coursework:  
   • CS61C: Great Ideas of Computer Architecture (Machine Structures)    
