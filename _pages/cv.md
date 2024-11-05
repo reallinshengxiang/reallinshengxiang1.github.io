@@ -42,17 +42,17 @@ Scholarship
 
 Commendation
 ======
-* [Outstanding League members, Xi’an Jiaotong University， 2024.05](../cv/Outstanding%20League%20members%2C%20Xi’an.pdf)  
+* Outstanding League members, Xi’an Jiaotong University， 2024.05   [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Outstanding%20students%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="1.5%"/>](../cv/Outstanding%20League%20members%2C%20Xi’an.pdf)  
 * Outstanding students, Xi’an Jiaotong University, 2023.12   [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Outstanding%20students%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="1.5%"/>](../cv/Outstanding%20students%2C%20Xi’an%20Jiaotong%20University.pdf)  
 
 Social Engagements
 ======
-* Member of Berkeley TechFounders' Technology Department ，2024-present
-* Minister of XJTU Computer Science and Technology Experimental Class-Mentor-Group ，2023-present
-* Member at Experimental Computer Class Committee, responsible for academics ， 2023-present
-* Member at Xi'an Jiaotong University Campus Ambassador Social Practice ， 2023-2024
-* Officer at Qian Xuesen College Academic Tutoring Center Office ， 2023-2024
-* Officer at Chung Ying College Study Committee ， 2022-2023
+* Member of Berkeley TechFounders' Technology Department, 2024-present
+* Minister of XJTU Computer Science and Technology Experimental Class-Mentor-Group, 2023-present
+* Member at Experimental Computer Class Committee, responsible for academics, 2023-present
+* Member at Xi'an Jiaotong University Campus Ambassador Social Practice, 2023-2024
+* Officer at Qian Xuesen College Academic Tutoring Center Office, 2023-2024
+* Officer at Chung Ying College Study Committee, 2022-2023
 
 
 
