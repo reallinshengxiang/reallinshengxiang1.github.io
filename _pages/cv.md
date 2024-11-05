@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected) <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="10%"/>   
+* Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected) <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="8%"/>   
   B.E. in Computer Science and Technology (Qian Xuesen Honor Science)       
   • GPA: 93.42/100  ( 4.06/4.30 )  
   • Rank:  4/43   
-* University of California, Berkeley ， 2024.08 - 2024.12   <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="10%"/>  
+* University of California, Berkeley ， 2024.08 - 2024.12   <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="8%"/>  
   UCBX 
   Relevant Coursework:  
   • CS61C: Great Ideas of Computer Architecture (Machine Structures)    
