@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[click](../assets/cv.pdf)
-
 Education
 ======
 * Xi'an Jiaotong University, 2022.09 - present [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="8%"/>](http://en.xjtu.edu.cn/about.html)   
