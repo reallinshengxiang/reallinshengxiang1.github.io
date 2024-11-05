@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shengxiang Lin / Site Title"
+title                    : "Shengxiang Lin / Home"
 title_separator          : "-"
 name                     : &name "Shengxiang Lin"
 description              : &description "personal description"
