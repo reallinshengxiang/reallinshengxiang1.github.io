@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
       
-# Education
+Education
 ======
 * Xi'an Jiaotong University, 2022.09 - present [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="8%"/>](http://en.xjtu.edu.cn/about.html)   
   B.E. in Computer Science and Technology (Qian Xuesen Honor Science)       
