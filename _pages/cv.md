@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Xi'an Jiaotong University ，2022.09 - 2026.07 (Expected)  
-  B.E. in Computer Science and Technology (Qian Xuesen Honor Science)   <img src="https://github.com/user-attachments/assets/164fbcd7-c3ee-4d96-bf87-a0979f2f4c44"  align = "right"/>    
+  B.E. in Computer Science and Technology (Qian Xuesen Honor Science)   <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"/>    
   • GPA: 93.42/100  ( 4.06/4.30 )  
   • Rank:  4/43   
 * University of California, Berkeley ， 2024.08 - 2024.12  
