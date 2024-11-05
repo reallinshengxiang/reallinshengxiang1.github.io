@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "&nbsp;&nbsp;&nbsp;&nbsp;Homepage &nbsp;&nbsp;&nbsp;&nbsp;"
+title                    : "Shengxiang's Homepage"
 title_separator          : "-"
 name                     : &name "Shengxiang Lin"
 description              : &description "Junior at Xi'an Jiaotong University"
