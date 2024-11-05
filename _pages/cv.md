@@ -19,7 +19,6 @@ Education
   • Rank:  4/43   
 * University of California, Berkeley ， 2024.08 - 2024.12  
   UCBX  <img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "right" width="10%"/>  
-
   Relevant Coursework:  
   • CS61C: Great Ideas of Computer Architecture (Machine Structures)    
   • CS162: Operating Systems and System Programming  
