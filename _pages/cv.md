@@ -47,7 +47,7 @@ Commendation
 
 Social Engagements
 ======
-* Member of Berkeley TechFounders' Technology Department ，2024-presen
+* Member of Berkeley TechFounders' Technology Department ，2024-present
 * Minister of XJTU Computer Science and Technology Experimental Class-Mentor-Group ，2023-present
 * Member at Experimental Computer Class Committee, responsible for academics ， 2023-present
 * Member at Xi'an Jiaotong University Campus Ambassador Social Practice ， 2023-2024
