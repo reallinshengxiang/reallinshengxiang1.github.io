@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* Designing a CPU by Logisim @ UCB, 2024.11
+  • Logisim    
+  • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining    
+  
+* Implementation of a subset with TCP protocol @ UCB, 2024.11
+  • Python   
+  • Provide reliability for TCP Protocol, though it won't include congestion control
 
 * Implementing a Snake Game in C @ UCB, 2024.09  
   • C     
