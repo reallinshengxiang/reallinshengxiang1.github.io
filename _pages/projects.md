@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Designing a CPU by Logisim @ UCB, 2024.11
+* Designing a CPU by Logisim @ UCB, 2024.11  
   • Logisim    
   • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining    
   
