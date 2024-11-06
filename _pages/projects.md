@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Implementing a Snake Game in C @ UCB, 2024.09  
-  • C / C++ / Valgrind  
+  • C     
   • Creating a playable snake game in C Programming Language    
 
 * 2D Game Development and Design @ XJTU, 2024.03   
