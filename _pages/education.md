@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-[<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "left"  width="8%"/>](http://en.xjtu.edu.cn/about.html)    ##  Xi'an Jiaotong University, 2022.09 - present   
+[<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "left"  width="8%"/>](http://en.xjtu.edu.cn/about.html)    Xi'an Jiaotong University  
+2022.09 - present   
 B.E. in Computer Science and Technology (Qian Xuesen Honor Science)       
-  • GPA: 93.42/100  ( 4.06/4.30 )  
+  • GPA: 93.42/100  ( 4.06/4.30 )   
   • Rank:  4/43   
 [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/ucb.webp"  align = "left" width="8%"/>](https://www.berkeley.edu/)   ## University of California, Berkeley, 2024.08 - 2024.12   
   UCBX   
