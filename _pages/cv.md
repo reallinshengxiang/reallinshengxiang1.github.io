@@ -43,6 +43,15 @@ Commendation
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Outstanding%20League%20members%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="2%"/>](../cv/Outstanding%20League%20members%2C%20Xi’an.pdf)  Outstanding League members, Xi’an Jiaotong University, 2024.05   
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Outstanding%20students%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="1.5%"/>](../cv/Outstanding%20students%2C%20Xi’an%20Jiaotong%20University.pdf)  Outstanding students, Xi’an Jiaotong University, 2023.12   
 
+Projects
+======
+* 2D Game Design and Development @ XJTU, 2024.03
+  * C#  
+  * 
+
+Research Experiences
+======
+
 Social Engagements
 ======
 * Member of Berkeley TechFounders' Technology Department, 2024-present
