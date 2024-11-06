@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-* 	Implementing a Snake Game in C @ UCB, 2024.09
+* 	Implementing a Snake Game in C @ UCB, 2024.09  
   • C / C++ / Valgrind  
   • Creating a playable snake game in C Programming Language
 
