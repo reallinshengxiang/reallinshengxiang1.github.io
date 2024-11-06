@@ -25,7 +25,7 @@ Education
 
 Competition
 ======
-* [First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region, 2024.09](../cv/cv.pdf)  
+* First Award, China Undergraduate Mathematical Contest in Modeling ( CUMCM ) Shaanxi Region, 2024.09
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Third%20Award%2C%20Blue%20Bridge%20Cup%20National%20Finals%20CC%2B%2B%20Programming%20University%20Group%20A.webp"  align = "middle"  width="1.5%"/>](../cv/Third%20Award%2C%20Blue%20Bridge%20Cup%20National%20Finals%20C%2B%2B%20Programming%20University%20Group%20A.pdf) Third Award, Blue Bridge Cup National Finals C/C++ Programming University Group A, 2024.06     
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Personal%20Second%20Prize%2C%20Group%20Programming%20Ladder%20Tournament%20(%20GPLT%20)%20National%20Finals.webp"  align = "middle"  width="1.5%"/>](../cv/Personal%20Second%20Prize%2C%20Group%20Programming%20Ladder%20Tourn.pdf)  Personal Second Prize, Group Programming Ladder Tournament ( GPLT ) National Finals, 2024.04   
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/First%20Award%2C%20Blue%20Bridge%20Cup%20Shaanxi%20Provincial%20Competition%20CC%2B%2B%20Programming%20University%20Group%20A.webp"  align = "middle"  width="1.5%"/>](../cv/First%20Award%2C%20Blue%20Bridge%20Cup%20Shaanxi%20Provincial%20Competition%20C%2B%2B.pdf)  First Award, Blue Bridge Cup Shaanxi Provincial Competition C/C++ Programming University Group A, 2024.04   
@@ -35,7 +35,7 @@ Competition
 
 Scholarship
 ======
-* [Huawei Scholarship, 2024.11](../cv/cv.pdf)  
+* Huawei Scholarship, 2024.11
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/National%20Scholarship.webp"  align = "middle"  width="2%"/>](../cv/National%20Scholarship.pdf) National Scholarship, 2023.12   
 
 Commendation
