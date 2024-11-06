@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * 	Implementing a Snake Game in C (ASCII Version) @ UCB [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="8%"/>](http://en.xjtu.edu.cn/about.html)        
-  • C / C++ / Valgrind   &nbsp,&nbsp,&nbsp,&nbsp,&nbsp 2024.09  
+  • C / C++ / Valgrind   &nbsp &nbsp &nbsp &nbsp &nbsp 2024.09  
   • Creating a playable snake game in C Programming Language
 
           
