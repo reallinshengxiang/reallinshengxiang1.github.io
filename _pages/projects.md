@@ -14,3 +14,7 @@ redirect_from:
 * 2D Game Development and Design @ XJTU, 2024.03   
   • C#   
   • Based on game engine Unity, creating Paranormal-XJTU   
+
+* Circuit Simulation Design @ XJTU, 2023.11-2023.12   
+  • Python   
+  • Design class multisim circuit simulation to enable the application of sinusoidal steady state circuit phase method simulation simulation     
