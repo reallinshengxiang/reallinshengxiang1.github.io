@@ -11,6 +11,6 @@ redirect_from:
   • C / C++ / Valgrind  
   • Creating a playable snake game in C Programming Language
 
-* 2D Game Development and Design
+* 2D Game Development and Design @ XJTU, 2024.03 
   • C / C++ / Valgrind  
   • Based on game engine Unity, creating Paranormal-XJTU 
