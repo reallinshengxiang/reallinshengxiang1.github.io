@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Designing a CPU by Logisim @ UCB, 2024.11  
-  • Logisim    
-  • Design a skeleton CPU which contains basic elements like ALU, Register File, and expand CPU to support more instructions and pipelining    
+* Design and Development in Operating Systems  2024.09-present
+  Under the supervision of Prof. Ion Stoica       Berkeley,USA
+  • Build a shell, similar to the one used by bash on a virtual machine.
+  • Implement an HTTP server that handles HTTP GET requests.
+  • Complete OS development with Pintos      
   
 * Implementation of a subset with TCP protocol @ UCB, 2024.11  
   • Python   
