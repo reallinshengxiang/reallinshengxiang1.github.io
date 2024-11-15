@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Design and Development in Operating Systems <div style="text-align: right;">2024.09-present    </div>
+* Design and Development in Operating Systems  2024.09-present
+  <div style="font-size:16px"><span style="float:right">右对齐</span>左对齐 </div
   Under the supervision of Prof. Ion Stoica   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Berkeley,USA   
   • Build a shell, similar to the one used by bash on a virtual machine.  
   • Implement an HTTP server that handles HTTP GET requests.   
