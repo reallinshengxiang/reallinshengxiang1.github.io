@@ -43,4 +43,4 @@ redirect_from:
 * **Oscillations of a surface-conducting light sphere under a magnetic field**,2023.03 - 2024.06          
   *Under the supervision of Prof. Shengchun Mao @ Xi’an, China*         
   • Using software such as Tracker, MATLAB, COMSOL, etc., abstract modeling, data analysis, and formula fitting of physical phenomena are carried out to obtain the motion formula of a surface conductive light ball in a magnetic field under certain conditions.          
-  • Complete the group paper ”Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls         
+  • Complete the group paper *Study on the Effect of Magnetic Field on the Oscillation of Surface Conductive Light Balls*         
