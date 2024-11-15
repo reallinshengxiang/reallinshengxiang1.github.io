@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 * Design and Development in Operating Systems,2024.09-present    
-  Under the supervision of Prof. Ion Stoica,Berkeley,USA   
+  Under the supervision of Prof. Ion Stoica@Berkeley,USA   
   • Build a shell, similar to the one used by bash on a virtual machine.  
   • Implement an HTTP server that handles HTTP GET requests.   
   • Complete OS development with Pintos       
