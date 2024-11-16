@@ -30,13 +30,11 @@ redirect_from:
 * [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang.github.io/refs/heads/master/images/Outstanding%20students%2C%20Xi%E2%80%99an%20Jiaotong%20University.webp"  align = "middle"  width="1.5%"/>](../cv/Outstanding%20students%2C%20Xi’an%20Jiaotong%20University.pdf)  Outstanding students, Xi’an Jiaotong University, 2023.12 
 
 
-<div style="line-height: 1;">
 <div style="height: 100px;"></div>        
 
- [  <span style="font-size: 10px;">Integrity Shines in My Heart, Promoting Wind and Protecting Party Soul--Telecommunications Department Zhongying College Teachers and Students Joint First Party Branch Integrity Theme Educational Activities</span>](https://mp.weixin.qq.com/s?__biz=MzU1NzQ3MTcwMA==&mid=2247524480&idx=1&sn=237439dad4025224fb3bad880f0d24a6&chksm=fd55b506f813fe2fa259dd63eaa187e945ca9ff89cbef5695eb5a4d17a23714080de20b0544f&mpshare=1&scene=23&srcid=1116GUd1YH1CD09hjTa7nfnL&sharer_shareinfo=9eb37300aac4b1c782a9479d17afc52c&sharer_shareinfo_first=9eb37300aac4b1c782a9479d17afc52c#rd)<br>
+ [  <span style="font-size: 10px;">Integrity Shines in My Heart, Promoting Wind and Protecting Party Soul--Telecommunications Department Zhongying College Teachers and Students Joint First Party Branch Integrity Theme Educational Activities</span>](https://mp.weixin.qq.com/s?__biz=MzU1NzQ3MTcwMA==&mid=2247524480&idx=1&sn=237439dad4025224fb3bad880f0d24a6&chksm=fd55b506f813fe2fa259dd63eaa187e945ca9ff89cbef5695eb5a4d17a23714080de20b0544f&mpshare=1&scene=23&srcid=1116GUd1YH1CD09hjTa7nfnL&sharer_shareinfo=9eb37300aac4b1c782a9479d17afc52c&sharer_shareinfo_first=9eb37300aac4b1c782a9479d17afc52c#rd)
 
  [  <span style="font-size: 10px;">Qian Xuesen Academy May Fourth Assessment and Recognition of Excellence Exhibition - Outstanding Communist Youth League Member</span>](https://mp.weixin.qq.com/s?__biz=MzkyOTU3MTcxNQ==&mid=2247487908&idx=1&sn=c9487c0bd44b93c8415f06e3837cd073&chksm=c3669065da810c6831c229fd53bb63696b61f1d484bacbdd0b4438a09d46b3f0ce4da779f90e&mpshare=1&scene=23&srcid=1116aEEVSbcCMvfBkzhwD1vy&sharer_shareinfo=8abcecfef1130d11f4090c2bda30e07a&sharer_shareinfo_first=8abcecfef1130d11f4090c2bda30e07a#rd)
-</div>
 
-112222
+1166
 
