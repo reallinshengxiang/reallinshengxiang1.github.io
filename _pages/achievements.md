@@ -37,7 +37,7 @@ redirect_from:
 
  [  <span style="font-size: 10px;">Qian Xuesen Academy May Fourth Assessment and Recognition of Excellence Exhibition - Outstanding Communist Youth League Member</span>](https://mp.weixin.qq.com/s?__biz=MzkyOTU3MTcxNQ==&mid=2247487908&idx=1&sn=c9487c0bd44b93c8415f06e3837cd073&chksm=c3669065da810c6831c229fd53bb63696b61f1d484bacbdd0b4438a09d46b3f0ce4da779f90e&mpshare=1&scene=23&srcid=1116aEEVSbcCMvfBkzhwD1vy&sharer_shareinfo=8abcecfef1130d11f4090c2bda30e07a&sharer_shareinfo_first=8abcecfef1130d11f4090c2bda30e07a#rd)
 
-<div style="line-height: 1.8;">
+<div style="line-height: 1;">
 这是第一行内容。<br>
 这是第二行内容。
 </div>
